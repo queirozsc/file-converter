@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/queirozsc/file-converter/issues"
   },
-  "homepage": "https://github.com/queirozsc/file-converter#readme"
+  "homepage": "https://github.com/queirozsc/file-converter#readme",
+  "devDependencies": {
+    "serverless-domain-manager": "^2.2.1"
+  }
 }
