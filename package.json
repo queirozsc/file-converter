@@ -1,0 +1,22 @@
+{
+  "name": "file-converter",
+  "version": "1.0.0",
+  "description": "file-converter",
+  "main": "handler.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/queirozsc/file-converter.git"
+  },
+  "author": "Sergio Queiroz <sergio.queiroz at buildnprice.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/queirozsc/file-converter/issues"
+  },
+  "homepage": "https://github.com/queirozsc/file-converter#readme"
+}
